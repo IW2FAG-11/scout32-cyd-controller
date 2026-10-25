@@ -2,7 +2,7 @@
 
 A dedicated handheld touchscreen controller for the **Scout32 WiFi FPV Camera Rover**, built using the **Cheap Yellow Display (CYD)** (ESP32-2432S028R).
 
-![Scout32 CYD Controller](IMG_3277.jpg)
+![assets](IMG_3277.jpg)
 
 ## 📌 Project Overview
 
